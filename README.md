@@ -131,9 +131,21 @@ Open the app in your browser: http://localhost:PORTNUM
 
 
 
+<img width="1911" height="1021" alt="Screenshot 2025-12-06 174743" src="https://github.com/user-attachments/assets/8f4a6d26-7196-4fee-9ec1-ce020ee46ed2" />
 
 
 
 
+<img width="1912" height="970" alt="Screenshot 2025-12-06 181040" src="https://github.com/user-attachments/assets/6a4e423e-1960-4042-8270-7f1517c379c0" />
 
+
+<img width="1467" height="715" alt="Screenshot 2025-12-06 181137" src="https://github.com/user-attachments/assets/02b66a95-8734-4bd8-8442-43a15b5493ec" />
+
+
+
+<img width="1919" height="1079" alt="Screenshot 2025-12-06 181213" src="https://github.com/user-attachments/assets/e161b87f-5163-4b7a-95b3-cd0d3fb6404c" />
+
+
+<img width="1913" height="895" alt="Screenshot 2025-12-06 181813" src="https://github.com/user-attachments/assets/aa29a3b3-e06b-4121-9757-c7ec1a4c4de4" />
+<img width="1894" height="1079" alt="Screenshot 2025-12-06 181828" src="https://github.com/user-attachments/assets/892d7211-c9f9-4f1b-b89f-a2448cebeb43" /><img width="734" height="779" alt="Screenshot 2025-12-06 181931" src="https://github.com/user-attachments/assets/37a5b078-91ab-4e8d-a6a9-713e4fc0d43d" />
 
