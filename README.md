@@ -126,6 +126,8 @@ npm start
 Open the app in your browser: http://localhost:PORTNUM
 
 📸 Screenshots
+<img width="1911" height="1021" alt="Screenshot 2025-12-06 174743" src="https://github.com/user-attachments/assets/5eb9a165-a6e6-416a-bdb9-df4230d67f38" />
+
 
 
 
