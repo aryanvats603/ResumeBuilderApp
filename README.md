@@ -125,7 +125,6 @@ npm start
 
 Open the app in your browser: http://localhost:PORTNUM
 
-📸 Screenshots
 
 
 
